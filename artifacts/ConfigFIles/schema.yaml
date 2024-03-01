@@ -1,0 +1,16 @@
+COLUMNS:
+    age: float
+    workclass: str
+    fnlwgt: float
+    education: str
+    education-num: float
+    marital-status: str
+    occupation: str
+    relationship: str
+    race: str
+    sex: str
+    capital-gain: float
+    capital-loss: float
+    hours-per-week: float
+    native-country: str
+    label: int

@@ -1,6 +1,9 @@
 import os
 import yaml
 from box.exceptions import BoxValueError
+from pathlib import Path
+from box import ConfigBox
+import pandas as pd
 
 
 def create_directories(directory_names: list, verbose = True ):
@@ -39,3 +42,11 @@ def read_yaml_file(path_to_yaml_file: Path)-> ConfigBox:
         raise e
      
     return ConfigBox(data)
+
+def read_custom_csv(path, options= {'header': None, 'names': ['age', 'workclass', 'fnlwgt', 'education', 'education-num', 'marital-status', 'occupation', 'relationship', 'race', 'sex', 'capital-gain', 'capital-loss', 'hours-per-week', 'native-country'], 'skipinitialspace': True}, skip_rows= 1, test= None):
+    if test is None:
+        return pd.read_csv(path, **options)
+    else:
+        return pd.read_csv(path, skiprows=skip_rows, **options)
+    
+    

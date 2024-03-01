@@ -5,3 +5,9 @@ data_ingestion:
   source_url: https://archive.ics.uci.edu/static/public/2/adult.zip
   zipped_local_dir: artifacts/data_ingestion/adult.zip
   unzip_dir: artifacts/data
+
+data_validation:
+    root_dir: artifacts/data_validation
+    unzipped_dir: artifacts/data/adult.data
+    STATUS_FILE: artifacts/data_validation/status.txt
+    schema_dir: artifacts/ConfigFiles/schema.yaml
