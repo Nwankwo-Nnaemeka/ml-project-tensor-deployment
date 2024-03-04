@@ -11,3 +11,8 @@ data_validation:
     unzipped_dir: artifacts/data/adult.data
     STATUS_FILE: artifacts/data_validation/status.txt
     schema_dir: artifacts/ConfigFiles/schema.yaml
+
+data_transformation:
+    root_dir: artifacts/data_transformation
+    transformed_train_data: artifacts/data_transformation/train.csv
+    transformed_test_data: artifacts/data_transformation/test.csv
