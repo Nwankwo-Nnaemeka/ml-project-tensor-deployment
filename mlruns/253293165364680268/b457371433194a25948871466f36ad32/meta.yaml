@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/253293165364680268/b457371433194a25948871466f36ad32/artifacts
+deleted_time: 1709564666231
+end_time: 1709564162026
+entry_point_name: ''
+experiment_id: '253293165364680268'
+lifecycle_stage: deleted
+run_id: b457371433194a25948871466f36ad32
+run_name: awesome-stoat-268
+run_uuid: b457371433194a25948871466f36ad32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709564161810
+status: 4
+tags: []
+user_id: Windows 10

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/987327731355117315/aae2e48c93f4428bae8ac83ec35ac9a9/artifacts
+end_time: 1709567057694
+entry_point_name: ''
+experiment_id: '987327731355117315'
+lifecycle_stage: active
+run_id: aae2e48c93f4428bae8ac83ec35ac9a9
+run_name: selective-snail-615
+run_uuid: aae2e48c93f4428bae8ac83ec35ac9a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709567050192
+status: 3
+tags: []
+user_id: Windows 10

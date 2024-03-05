@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/253293165364680268/58fd8eb5f6c5445bac9d2fcbaf36a08f/artifacts
+deleted_time: 1709564666229
+end_time: 1709564290387
+entry_point_name: ''
+experiment_id: '253293165364680268'
+lifecycle_stage: deleted
+run_id: 58fd8eb5f6c5445bac9d2fcbaf36a08f
+run_name: valuable-boar-347
+run_uuid: 58fd8eb5f6c5445bac9d2fcbaf36a08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709564289687
+status: 4
+tags: []
+user_id: Windows 10

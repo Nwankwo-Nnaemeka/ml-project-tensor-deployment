@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709567057659
+current_stage: None
+description: ''
+last_updated_timestamp: 1709567057659
+name: tracking-logistic
+run_id: aae2e48c93f4428bae8ac83ec35ac9a9
+run_link: ''
+source: mlflow-artifacts:/987327731355117315/aae2e48c93f4428bae8ac83ec35ac9a9/artifacts/logistic_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/987327731355117315/aae2e48c93f4428bae8ac83ec35ac9a9/artifacts/logistic_model
+user_id: null
+version: 2

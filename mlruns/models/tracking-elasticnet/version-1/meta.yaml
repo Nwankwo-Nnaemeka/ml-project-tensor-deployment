@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709564327896
+current_stage: None
+description: ''
+last_updated_timestamp: 1709564327896
+name: tracking-elasticnet
+run_id: 4ae309e50cff4d9dbe598aac46492e23
+run_link: ''
+source: mlflow-artifacts:/253293165364680268/4ae309e50cff4d9dbe598aac46492e23/artifacts/elastic_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/253293165364680268/4ae309e50cff4d9dbe598aac46492e23/artifacts/elastic_model
+user_id: null
+version: 1

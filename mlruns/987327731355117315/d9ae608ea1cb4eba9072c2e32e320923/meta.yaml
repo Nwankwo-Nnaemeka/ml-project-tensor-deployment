@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/987327731355117315/d9ae608ea1cb4eba9072c2e32e320923/artifacts
+end_time: 1709566554111
+entry_point_name: ''
+experiment_id: '987327731355117315'
+lifecycle_stage: active
+run_id: d9ae608ea1cb4eba9072c2e32e320923
+run_name: awesome-chimp-662
+run_uuid: d9ae608ea1cb4eba9072c2e32e320923
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709566553931
+status: 4
+tags: []
+user_id: Windows 10

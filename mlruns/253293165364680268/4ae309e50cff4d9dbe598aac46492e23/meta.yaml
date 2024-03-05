@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/253293165364680268/4ae309e50cff4d9dbe598aac46492e23/artifacts
+end_time: 1709564327932
+entry_point_name: ''
+experiment_id: '253293165364680268'
+lifecycle_stage: active
+run_id: 4ae309e50cff4d9dbe598aac46492e23
+run_name: burly-skink-969
+run_uuid: 4ae309e50cff4d9dbe598aac46492e23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709564313806
+status: 3
+tags: []
+user_id: Windows 10

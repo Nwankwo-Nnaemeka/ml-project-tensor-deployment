@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/987327731355117315/d6da41d4f6dd44af99316f4b470308d5/artifacts
+end_time: 1709566586340
+entry_point_name: ''
+experiment_id: '987327731355117315'
+lifecycle_stage: active
+run_id: d6da41d4f6dd44af99316f4b470308d5
+run_name: brawny-panda-475
+run_uuid: d6da41d4f6dd44af99316f4b470308d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709566580998
+status: 3
+tags: []
+user_id: Windows 10
