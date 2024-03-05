@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/474023395938013825/1d1cafc99f5b475c9ca028eef7fe3aad/artifacts
+deleted_time: 1709636945672
+end_time: 1709636880906
+entry_point_name: ''
+experiment_id: '474023395938013825'
+lifecycle_stage: deleted
+run_id: 1d1cafc99f5b475c9ca028eef7fe3aad
+run_name: sincere-squid-744
+run_uuid: 1d1cafc99f5b475c9ca028eef7fe3aad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709636880710
+status: 4
+tags: []
+user_id: Windows 10

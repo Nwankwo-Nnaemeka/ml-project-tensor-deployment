@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474023395938013825/6db4a48106224fe296a3e264e7dfff03/artifacts
+end_time: 1709636941232
+entry_point_name: ''
+experiment_id: '474023395938013825'
+lifecycle_stage: active
+run_id: 6db4a48106224fe296a3e264e7dfff03
+run_name: skittish-goose-937
+run_uuid: 6db4a48106224fe296a3e264e7dfff03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709636925433
+status: 3
+tags: []
+user_id: Windows 10

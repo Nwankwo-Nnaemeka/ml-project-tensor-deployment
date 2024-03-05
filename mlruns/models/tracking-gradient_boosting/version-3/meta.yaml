@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1709638885006
+current_stage: None
+description: ''
+last_updated_timestamp: 1709638885006
+name: tracking-gradient_boosting
+run_id: 604bae5ee4e94f618f278b58702f0e6c
+run_link: ''
+source: mlflow-artifacts:/474023395938013825/604bae5ee4e94f618f278b58702f0e6c/artifacts/logistic_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/474023395938013825/604bae5ee4e94f618f278b58702f0e6c/artifacts/logistic_model
+user_id: null
+version: 3

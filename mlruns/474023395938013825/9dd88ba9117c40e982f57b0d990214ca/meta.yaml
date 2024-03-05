@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474023395938013825/9dd88ba9117c40e982f57b0d990214ca/artifacts
+end_time: 1709638956570
+entry_point_name: ''
+experiment_id: '474023395938013825'
+lifecycle_stage: active
+run_id: 9dd88ba9117c40e982f57b0d990214ca
+run_name: suave-flea-741
+run_uuid: 9dd88ba9117c40e982f57b0d990214ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709638948036
+status: 3
+tags: []
+user_id: Windows 10

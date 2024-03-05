@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474023395938013825/604bae5ee4e94f618f278b58702f0e6c/artifacts
+end_time: 1709638885054
+entry_point_name: ''
+experiment_id: '474023395938013825'
+lifecycle_stage: active
+run_id: 604bae5ee4e94f618f278b58702f0e6c
+run_name: able-penguin-223
+run_uuid: 604bae5ee4e94f618f278b58702f0e6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709638876633
+status: 3
+tags: []
+user_id: Windows 10

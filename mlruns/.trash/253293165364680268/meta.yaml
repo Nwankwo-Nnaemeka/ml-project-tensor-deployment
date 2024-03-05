@@ -1,6 +1,7 @@
 artifact_location: mlflow-artifacts:/253293165364680268
 creation_time: 1709564161387
 experiment_id: '253293165364680268'
-last_update_time: 1709564161387
-lifecycle_stage: active
+last_update_time: 1709638492911
+lifecycle_stage: deleted
 name: 'MLflow ELasticNet '
+tags: {}

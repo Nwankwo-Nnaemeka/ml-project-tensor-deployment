@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/324870817913260625/206f0fd6a9974d32a4e199244a35987f/artifacts
+deleted_time: 1709639013445
+end_time: 1709638783834
+entry_point_name: ''
+experiment_id: '324870817913260625'
+lifecycle_stage: deleted
+run_id: 206f0fd6a9974d32a4e199244a35987f
+run_name: charming-fish-432
+run_uuid: 206f0fd6a9974d32a4e199244a35987f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709638775857
+status: 3
+tags: []
+user_id: Windows 10
